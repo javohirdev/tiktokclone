@@ -1,7 +1,7 @@
-# React JS va OpenWeather API orqali qilingan Ob-havo dasturi
+# React va Firebase yordamida qilingan Tiktok clone dasturi
 
 Demo:
 https://tiktokclone1.netlify.app/
 
 Video dars:
-https://youtu.be/Yicys71HfYI
+https://www.youtube.com/watch?v=ITQJyNdY1p8
